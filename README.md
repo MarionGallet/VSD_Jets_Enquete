@@ -4,7 +4,7 @@ Enquête sur les données relatives aux jets privés dans le cadre du cours La V
 
 ### Histoire du traçage des jets privés 
 
-Pour notre enquête, nous avons choisis de s’intéresser au traçage des données des jets privés. Notre étude commence aux origines du suivi des aéronefs. C’est la technologie du radar, développée par Heinrich Hertz en 1888, qui permet de détecter et d’assister les avions en vol. Le radar est d’abord utilisé dans un contexte militaire. Pendant la Seconde Guerre Mondiale, il permet aux anglais de détecter la trajectoire des avions allemands. Plus la technologie du radar s’est améliorée, plus le suivi des avions s’est développé. Nous détaillerons l’évolution des technologies qui permettent le traçage des aéronefs plus tard dans notre étude. Le flight tracking s’est développé au fil du temps grâce à la mobilisation de nombreux acteurs. 
+Pour notre enquête, nous avons choisi de s’intéresser au traçage des données des jets privés. Notre étude commence aux origines du suivi des aéronefs. C’est la technologie du radar, développée par Heinrich Hertz en 1888, qui permet de détecter et d’assister les avions en vol. Le radar est d’abord utilisé dans un contexte militaire. Pendant la Seconde Guerre Mondiale, il permet aux anglais de détecter la trajectoire des avions allemands. Plus la technologie du radar s’est améliorée, plus le suivi des avions s’est développé. Nous détaillerons l’évolution des technologies qui permettent le traçage des aéronefs plus tard dans notre étude. Le flight tracking s’est développé au fil du temps grâce à la mobilisation de nombreux acteurs. 
 
 ### Les acteurs mobilisés 
 
