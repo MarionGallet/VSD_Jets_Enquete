@@ -93,7 +93,9 @@ Source : ADS-B Exchange, calculs franceinfo.fr
 
 Enfin, les bases de données ont également permis de pointer certaines personnalités publiques. En moyenne, les utilisateurs de tels avions possèdent une fortune d’environ 1,3 milliards d’euros. Ainsi, de nombreux comptes sur les réseaux sociaux sont apparus dans l’optique de dénoncer les vols en jet privé de certaines de ces personnalités. C’est Jack Sweeney, un Américain passionné d’aéronautique qui, en juin 2020, lance le compte @ElonJet sur Twitter, pour suivre les trajets d’Elon Musk, propriétaire de Tesla. Progressivement de nombreux autres comptes sont lancés, tels que @GatesJets (qui suit les trajets de Bill Gates), @BezosJets (pour Jeff Bezos) ou encore @ZuccJet (pour le patron de Facebool Mark Zuckerberg). Grâce aux données récoltées sur ces comptes, les émissions de ces personnalités américaines ont pu être mises en lumière (voir ci-dessous).
 
-(photo)
+![Emissions de CO2 des avions appartenant à des personnalités américaines](https://static.wixstatic.com/media/d2a522_be184dea53794930a22234602f8ec9ac~mv2.png/v1/fill/w_681,h_696,al_c,q_90,enc_auto/d2a522_be184dea53794930a22234602f8ec9ac~mv2.png)
+
+Source : ADS-B Exchange, calculs franceinfo.fr 
 
 Le même concept arrive rapidement en France. Les comptes @LaviondeBernard et @IFlyBernard recensent tous deux les trajets du jet privé de Bernard Arnault, propriétaire de LVMH. Dans un des récapitulatifs posté sur Instagram, @laviondebernard dénonce : 25 vols, 42 tonnes de kérosène et 133 tonnes de CO2 émis, soit l’équivalent de 13 ans d’empreinte carbone d’un Français moyen.
  
