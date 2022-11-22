@@ -54,6 +54,7 @@ En effet, Flight Radar se concentre dans sa partie data representation sur la qu
 La représentation, après une collecte de données qui est sensiblement la même chez les deux sites, relève d'un choix et a pour conséquence une présentation de différentes approches du réel, sous différents prismes. Ce n'est pas pour dire qu'il y a une tentative de manipulation : toutes les données sont vraies et il y a une sincère volonté d’exactitude. Seulement, la représentation relève d'un choix. Ces différences dans les choix peuvent s'expliquer par la demande des utilisateurs (qui payent pour accéder au service). Certains auront besoin de données techniques tandis que d'autres de données socio-économiques. Ainsi, les outils étant concurrents, il est normal qu'ils se soient tous deux spécialisés dans différents domaines en espérant attirer une part de marché correspondant aux services proposés. 
 
 ## Partie 2 - Des controverses autour des usages de ces bases de données 
+![Test](https://static.wixstatic.com/media/d2a522_3d2d241d34ab4c71bda0664b4c20e073~mv2.png/v1/fill/w_829,h_606,al_c,lg_1,q_90,enc_auto/Capture%20d%E2%80%99%C3%A9cran%202022-11-17%20%C3%A0%2010_34_30.png)
 
 ### Un enjeu juridique : la protection de la vie privée
 
@@ -89,7 +90,7 @@ En mettant en lumière les émissions de ces vols privés, les bases de données
 
 L’action militante a également touché les personnes directement concernées. En effet, au premier tour des présidentielles en France, l’ex premier ministre Jean Castex a pris l’avion pour se rendre dans son bureau de vote dans les Pyrénées Orientales. Suite à cela, une pétition, lancée par un collectif de citoyens, a récolté en moins de 10 jours plus de 37 000 signatures, demandant à Jean Castex de faire une procuration pour le second tour.
 Les manifestations et autres mouvements militants ont également appelé à la législation. La responsable de Transport & Environment appelait « Les législateurs européens à taxer les jets privés qui fonctionnent aux énergies fossiles et interdire leur fonctionnement dès 2030 ». La Convention Citoyenne pour le Climat a, elle, demandé à ce que le kérosène soit davantage taxé, pour que l’avion ne constitue plus un « avantage comparatif » pour les plus riches.
- 
+
 En réaction, la question des jets privés a finalement été saisie par les pouvoirs politiques. En septembre 2022, des parlementaires de La France Insoumise et Europe Écologie Les Verts ont déposé au moins 3 propositions de loi à ce sujet. Leur texte, surnommé « La loi PSG » en référence au scandale qui avait éclaté quelque temps plus tôt, vise à « élargir à toute l'aviation privée les restrictions s'appliquant aux services réguliers de transport aérien public de passagers ». Autrement dit, il s’agirait d’interdire les vols privés si le trajet est aussi assuré en train et a une durée inférieure à 2h30. Le texte comporte deux articles qui prévoient « l'interdiction de la circulation des jets privés dans l'espace aérien français en dehors des vols d'évacuation sanitaires, des vols qui concernent la sécurité nationale ou encore des jets privés militaires », ainsi que « un plan d'action pour la reconversion des salariés du secteur ». Et en cas d’abus, les usagers de jets seraient punis d’un an d’emprisonnement et d’une amende de 150 000 euros.
 
 ## Partie 3 - confiance et journalisme des données 
