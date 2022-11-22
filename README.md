@@ -161,9 +161,9 @@ ADSB Exchange. Accessible sur : https://globe.adsbexchange.com/
 
 HAAS, G. et al. 31 janvier 2022. *Peut-on librement publier les données sur les vols de jets privés ?*. Accessible sur : https://info.haas-avocats.com/droit-digital/peut-on-publier-donnees-sur-vols-jets-prives
 
-CHAPITRE II - Principes | CNIL. (s.d.). Accessible sur : https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2
+CHAPITRE II - Principes, CNIL. (s.d.). Accessible sur : https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2
 
-LE BONNIEC, T. 17 octobre 2022 *« Le grand détournement » : Les données de vol et les jets privé* | CNIL. Accessible sur : https://linc.cnil.fr/fr/le-grand-detournement-les-donnees-de-vol-et-les-jets-prive
+LE BONNIEC, T. 17 octobre 2022 *« Le grand détournement » : Les données de vol et les jets privé*, CNIL. Accessible sur : https://linc.cnil.fr/fr/le-grand-detournement-les-donnees-de-vol-et-les-jets-prive
 
 *Déni, menaces, marchandage… Les milliardaires irrités par le suivi en ligne de leurs trajets aériens.* L’Obs., 8 août 2022 (en ligne). Accessible sur : https://www.nouvelobs.com/societe/20220808.OBS61813/deni-menaces-marchandage-les-milliardaires-irrites-par-le-suivi-en-ligne-de-leurs-trajets-aeriens.html
 
@@ -177,8 +177,8 @@ Jean-Philippe Cointet, *Le journalisme de données*, cours 'La Vie Sociale des D
 
 ## Auteurs
 
-DE CARRÈRE, Albéric
-DÉRAND, Eva
-GALLET, Marion 
-MARTIN, Clémence
-REIGNEAUD, Jules
+* DE CARRÈRE, Albéric
+* DÉRAND, Eva
+* GALLET, Marion 
+* MARTIN, Clémence
+* REIGNEAUD, Jules
